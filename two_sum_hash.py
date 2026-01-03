@@ -1,3 +1,12 @@
+# Two Sum – LeetCode
+
+Problem: Find indices of two numbers that add up to target.
+
+Approach:
+- Used Hash Table (dictionary)
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+
 class Solution(object):
     def twoSum(self, nums, target):
         seen={}
@@ -11,4 +20,5 @@ nums=[2,7,11,15]
 target=9
 solution=Solution()
 result=solution.twoSum(nums,target)
+
 print(result)  
