@@ -1,8 +1,11 @@
-# Two Sum – LeetCode
+# Python Practice – LeetCode & Basics
 
-Problem: Find indices of two numbers that add up to target.
+This repository contains my Python practice codes including LeetCode problems.
 
-Approach:
-- Used Hash Table (dictionary)
-- Time Complexity: O(n)
-- Space Complexity: O(n)
+## Problems Solved
+1. Two Sum – Hash Table (LeetCode)
+2. Email ID Validity Checker
+
+Each file contains:
+- Problem logic
+- Local test cases
